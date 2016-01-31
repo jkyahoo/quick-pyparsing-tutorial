@@ -1,4 +1,4 @@
-## A Parsing Problem 1
+## A Parsing Problem 2
 
 To work through this tutorial, we will address a hypothetical problem. Given a string of alphabetic characters, expand any ranges to return a list of all the individual characters.
 
